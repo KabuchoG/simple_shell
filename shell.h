@@ -13,7 +13,7 @@
 
 /**
  * struct variables - variables
- * @av: command line arguments
+ * @av: command line args
  * @buffer: buffer of command
  * @env: environment variables
  * @count: count of commands entered
