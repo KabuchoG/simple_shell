@@ -3,7 +3,7 @@
 /**
  * check_for_builtins - checks if the command is a builtin
  * @vars: variables
- * Return: pointer to the function or NULL
+ * Return: pointer to the funct or NULL
  */
 void (*check_for_builtins(vars_t *vars))(vars_t *vars)
 {
