@@ -29,7 +29,7 @@ void (*check_for_builtins(vars_t *vars))(vars_t *vars)
 /**
  * new_exit - exit program
  * @vars: variables
- * Return: void
+ * Return: nothing
  */
 void new_exit(vars_t *vars)
 {
