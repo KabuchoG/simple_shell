@@ -1,1 +1,1 @@
-A collaborative repo by George Kabucho and Calvin Khasewa for the Simple Shell project.
+This is another READme file for simple shell project
