@@ -4,7 +4,7 @@
  * add_key - create a new environment variable
  * @vars: pointer to struct of variables
  *
- * Return: void
+ * Return: nothing
  */
 void add_key(vars_t *vars)
 {
